@@ -1,0 +1,12 @@
+{
+  "name": "Birthday Patro",
+  "short_name": "Birthday Patro",
+  "description": "A happy place to save birthdays and remember special days.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f7fc",
+  "theme_color": "#6d5dfc",
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
