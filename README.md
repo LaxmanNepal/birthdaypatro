@@ -5,6 +5,8 @@ A responsive birthday organizer with a cheerful dashboard, calendar, searchable 
 ## Features
 
 - Add, edit, search, filter, and delete birthdays
+- Export birthday lists to CSV or full JSON backup
+- Import JSON backups with merge or replace options and basic validation
 - Dashboard stats for today, this month, and the next 30 days
 - Countdown cards and a month calendar
 - Per-person reminder lead time and default reminder setting
